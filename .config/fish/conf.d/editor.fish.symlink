@@ -1,0 +1,4 @@
+if command -sq nvim
+  set -x EDITOR nvim
+  abbr v nvim
+end
